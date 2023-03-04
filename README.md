@@ -191,7 +191,7 @@ SSAFY 7기 2학기 특화프로젝트 - KIRIN
 - [기능명세서](docs/기능명세서.xlsx)
 - [와이어프레임 & 스토리보드](https://www.figma.com/file/4ahkuF2GWXhVbXjb0zasqJ/WireFrame?node-id=0%3A1)
 - [프로젝트계획서](docs/프로젝트계획서.pdf)
-- [컨벤션&git](doc/컨벤션&Git.md)
+- [컨벤션&git](docs/컨벤션&Git.md)
 - [API명세서](docs/API명세서.xlsx)
 - [ERD](docs/ERD.jpg)
 - [테스트케이스](docs/테스트케이스.xlsx)
